@@ -172,3 +172,9 @@ KPI Calculation
 Interactive Dashboard
      ↓
 Business Insights
+
+## 🌐 Live Dashboard
+
+The interactive dashboard is available here:
+
+[Open Sales & Revenue Analysis Dashboard](https://sales-revenue-analysis-dashboard-jaa73purkwjj7hbkjygzim.streamlit.app/)
